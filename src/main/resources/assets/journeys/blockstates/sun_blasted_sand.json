@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [{ "model": "journeys:block/sun_blasted_sand" },
+      { "model": "journeys:block/sun_blasted_sand", "y" :  90},
+      { "model": "journeys:block/sun_blasted_sand", "y" :  180},
+      { "model": "journeys:block/sun_blasted_sand", "y" :  270}]
+  }
+}

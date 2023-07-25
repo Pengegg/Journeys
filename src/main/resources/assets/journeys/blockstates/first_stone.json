@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "journeys:block/first_stone" }
+  }
+}
